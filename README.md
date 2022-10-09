@@ -51,15 +51,15 @@ gantt
 |任務＼組員|蔡明智|姚家浩|袁顥洋|禤蔚灝|俞閎譯|
 |--------|:---:|:---:|:---:|:---:|:---:|
 |Concept: Idea|✔|✔|✔|✔|✔|
-|Researchs: Art||||||
-|Researchs: Technical||||||
-|Graphics: Scenes||||||
-|Graphics: Objects||||||
-|Graphics: User Interfaces||||||
-|Sounds: Sounds||||||
-|Programming: Scenes||||||
-|Programming: User Interfaces||||||
-|Programming: Data Handling||||||
-|Programming: Sounds||||||
-|Programming: Game Logics||||||
+|Researchs: Art||✔|✔|✔|✔|
+|Researchs: Technical|✔|✔|✔|✔|✔|
+|Graphics: Scenes|✔|||||
+|Graphics: Objects|✔|||||
+|Graphics: User Interfaces||✔|✔|||
+|Sounds: Sounds||✔|✔|✔|✔|
+|Programming: Scenes|✔|✔|✔|✔|✔|
+|Programming: User Interfaces|✔|✔|✔|✔|✔|
+|Programming: Data Handling|✔|||✔||
+|Programming: Sounds|✔|✔|✔|✔|✔|
+|Programming: Game Logics|✔||||✔|
 |Testing: Testing|✔|✔|✔|✔|✔|
