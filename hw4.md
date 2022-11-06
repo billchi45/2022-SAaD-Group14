@@ -39,3 +39,17 @@ classDiagram
 ```
 
 ## 循序圖與活動圖
+(1) 玩遊戲
+
+![sequencediagram1](sequencediagram1.png)
+![flowchart1](flowchart1.png)
+
+(2) 選擇機車
+
+![sequencediagram2](sequencediagram2.png)
+![flowchart2](flowchart2.png)
+
+(3) 觀看安全駕駛知識
+
+![sequencediagram3](sequencediagram3.png)
+![flowchart3](flowchart3.png)
