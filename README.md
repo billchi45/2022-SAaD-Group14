@@ -19,3 +19,5 @@ Unity機車駕駛小遊戲 - 每日路上
 2. https://github.com/billchi45/2022-SAaD-Group14/blob/main/hw2.md
 3. https://github.com/billchi45/2022-SAaD-Group14/blob/main/hw3.md
 4. https://github.com/billchi45/2022-SAaD-Group14/blob/main/hw4.md
+5. https://github.com/billchi45/2022-SAaD-Group14/blob/main/hw5.md
+6. https://github.com/billchi45/2022-SAaD-Group14/blob/main/hw6.md
