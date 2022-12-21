@@ -53,3 +53,8 @@ classDiagram
 
 ![sequencediagram3](sequencediagram3.png)
 ![flowchart3](flowchart3.png)
+
+(4) 查看自己成績
+
+![sequencediagram3](sequencediagram4.png)
+![flowchart3](flowchart4.png)
