@@ -30,4 +30,7 @@
 
 ![KnowledgeContent](C_KnowledgeContent.png)
 
+(8) 查看自己成績
+![Highscores](C_Highscores.png)
+
 https://www.figma.com/file/ORZNVnes7LU2IVJr8QSTn9/Motorcycle?node-id=0%3A1
